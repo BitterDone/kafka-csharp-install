@@ -1,0 +1,8 @@
+D:\Repos\PersonalGithub\kafka-csharp-install\FreshKafka-withoutGitignore\FreshKafka-withoutGitignore\bin\Debug\netstandard2.0\FreshKafka-withoutGitignore.deps.json
+D:\Repos\PersonalGithub\kafka-csharp-install\FreshKafka-withoutGitignore\FreshKafka-withoutGitignore\bin\Debug\netstandard2.0\FreshKafka-withoutGitignore.dll
+D:\Repos\PersonalGithub\kafka-csharp-install\FreshKafka-withoutGitignore\FreshKafka-withoutGitignore\bin\Debug\netstandard2.0\FreshKafka-withoutGitignore.pdb
+D:\Repos\PersonalGithub\kafka-csharp-install\FreshKafka-withoutGitignore\FreshKafka-withoutGitignore\obj\Debug\netstandard2.0\FreshKafka-withoutGitignore.csproj.CoreCompileInputs.cache
+D:\Repos\PersonalGithub\kafka-csharp-install\FreshKafka-withoutGitignore\FreshKafka-withoutGitignore\obj\Debug\netstandard2.0\FreshKafka-withoutGitignore.AssemblyInfoInputs.cache
+D:\Repos\PersonalGithub\kafka-csharp-install\FreshKafka-withoutGitignore\FreshKafka-withoutGitignore\obj\Debug\netstandard2.0\FreshKafka-withoutGitignore.AssemblyInfo.cs
+D:\Repos\PersonalGithub\kafka-csharp-install\FreshKafka-withoutGitignore\FreshKafka-withoutGitignore\obj\Debug\netstandard2.0\FreshKafka-withoutGitignore.dll
+D:\Repos\PersonalGithub\kafka-csharp-install\FreshKafka-withoutGitignore\FreshKafka-withoutGitignore\obj\Debug\netstandard2.0\FreshKafka-withoutGitignore.pdb

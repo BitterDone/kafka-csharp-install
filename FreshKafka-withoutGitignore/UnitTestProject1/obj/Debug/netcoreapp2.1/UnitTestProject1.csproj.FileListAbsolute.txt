@@ -1,0 +1,17 @@
+D:\Repos\PersonalGithub\kafka-csharp-install\FreshKafka-withoutGitignore\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.csproj.CoreCompileInputs.cache
+D:\Repos\PersonalGithub\kafka-csharp-install\FreshKafka-withoutGitignore\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.AssemblyInfoInputs.cache
+D:\Repos\PersonalGithub\kafka-csharp-install\FreshKafka-withoutGitignore\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.AssemblyInfo.cs
+D:\Repos\PersonalGithub\kafka-csharp-install\FreshKafka-withoutGitignore\UnitTestProject1\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Repos\PersonalGithub\kafka-csharp-install\FreshKafka-withoutGitignore\UnitTestProject1\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Repos\PersonalGithub\kafka-csharp-install\FreshKafka-withoutGitignore\UnitTestProject1\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Repos\PersonalGithub\kafka-csharp-install\FreshKafka-withoutGitignore\UnitTestProject1\bin\Debug\netcoreapp2.1\UnitTestProject1.deps.json
+D:\Repos\PersonalGithub\kafka-csharp-install\FreshKafka-withoutGitignore\UnitTestProject1\bin\Debug\netcoreapp2.1\UnitTestProject1.runtimeconfig.json
+D:\Repos\PersonalGithub\kafka-csharp-install\FreshKafka-withoutGitignore\UnitTestProject1\bin\Debug\netcoreapp2.1\UnitTestProject1.runtimeconfig.dev.json
+D:\Repos\PersonalGithub\kafka-csharp-install\FreshKafka-withoutGitignore\UnitTestProject1\bin\Debug\netcoreapp2.1\UnitTestProject1.dll
+D:\Repos\PersonalGithub\kafka-csharp-install\FreshKafka-withoutGitignore\UnitTestProject1\bin\Debug\netcoreapp2.1\UnitTestProject1.pdb
+D:\Repos\PersonalGithub\kafka-csharp-install\FreshKafka-withoutGitignore\UnitTestProject1\bin\Debug\netcoreapp2.1\FreshKafka-withoutGitignore.dll
+D:\Repos\PersonalGithub\kafka-csharp-install\FreshKafka-withoutGitignore\UnitTestProject1\bin\Debug\netcoreapp2.1\FreshKafka-withoutGitignore.pdb
+D:\Repos\PersonalGithub\kafka-csharp-install\FreshKafka-withoutGitignore\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.csprojAssemblyReference.cache
+D:\Repos\PersonalGithub\kafka-csharp-install\FreshKafka-withoutGitignore\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.csproj.CopyComplete
+D:\Repos\PersonalGithub\kafka-csharp-install\FreshKafka-withoutGitignore\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.dll
+D:\Repos\PersonalGithub\kafka-csharp-install\FreshKafka-withoutGitignore\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.pdb
