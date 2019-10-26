@@ -6,3 +6,4 @@ D:\Repos\PersonalGithub\kafka-csharp-install\FreshKafka-withoutGitignore\FreshKa
 D:\Repos\PersonalGithub\kafka-csharp-install\FreshKafka-withoutGitignore\FreshKafka-withoutGitignore\obj\Debug\netstandard2.0\FreshKafka-withoutGitignore.AssemblyInfo.cs
 D:\Repos\PersonalGithub\kafka-csharp-install\FreshKafka-withoutGitignore\FreshKafka-withoutGitignore\obj\Debug\netstandard2.0\FreshKafka-withoutGitignore.dll
 D:\Repos\PersonalGithub\kafka-csharp-install\FreshKafka-withoutGitignore\FreshKafka-withoutGitignore\obj\Debug\netstandard2.0\FreshKafka-withoutGitignore.pdb
+D:\Repos\PersonalGithub\kafka-csharp-install\FreshKafka-withoutGitignore\FreshKafka-withoutGitignore\obj\Debug\netstandard2.0\FreshKafka-withoutGitignore.csprojAssemblyReference.cache
